@@ -1,0 +1,2 @@
+# Smart-Dustbin
+In this project a simple system called Smart Dustbin using Arduino, Ultrasonic Sensor and  Servo Motor is designed where the lid of the dustbin will automatically open itself upon  detection of human hands or any object. The main concept behind the Smart Dustbin  using Arduino project is Object Detection  Ultrasonic Sensor is placed on dustbin and when the sensor detects any object like a  human hand, it will trigger Arduino and then  the servo motor will open the lid.
